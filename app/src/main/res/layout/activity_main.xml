@@ -41,7 +41,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:id="@+id/tvRemaining"
-            android:textColor="#FB0000"
+            android:textColor="#F84E4E"
             android:text="10 sec"
             android:layout_marginRight="20dp"
             android:textSize="20sp"

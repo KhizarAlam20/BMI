@@ -93,7 +93,7 @@ class MainActivity : AppCompatActivity() {
             val duration = media!!.duration/1000
             val dueTime = duration-playedTime
 
-            tvRemaining.text = "$dueTime sec"
+            tvRemaining.text = "- $dueTime sec"
 
 
             seekBar.progress = media!!.currentPosition
